@@ -1,39 +1,9 @@
 # Adam Říha
-`Data Analyst`
-
-## Summary
-
-Experienced and dedicated Data Analyst with several years of experience identifying efficiencies and problem areas within data streams, while communicating needs for projects.
-
-## Working Experience
-
-#### Allianz pojistovna, a. s. (`Actuary`, 2018/10 - present) 
-
-* Data Analysis: Conducted comprehensive data analysis to extract meaningful insights and support data-driven decision-making.
-* Actuarial Modeling: Developed and managed insurance actuarial models, ensuring accuracy and relevance in pricing and risk assessment.
-* Internal Process Innovation: Spearheaded innovation initiatives to optimize internal data processes, resulting in increased efficiency and cost savings.
-
-#### 4Life Direct Insurance Services s.r.o. (`Customer Service Specialist`, 2018/01 - 2018/06) 
-
-* Analyzed customer service data to identify and address customer service issues, resulting in improved customer experience.
 
 ## Projects
 
 * [FixMall](https://github.com/adamriha97/fixmall) - Python program for processing and modifying data provided by AAD company using the tkinter and xml.etree.ElementTree libraries.
 * [Cinema Scraper](https://github.com/adamriha97/cinema_scraper) - Python program that scrapes data from the internet about movies currently showing in theaters, primarily using the Scrapy and Selenium libraries.
-
-## Skills
-
-* Python
-* SQL
-* SAS Enterprise Guide
-* Emblem (WTW)
-* TrueNas Scale
-
-## Languages
-
-* Czech (fluent/native)
-* English (B2)
 
 ## Hobbies
 
